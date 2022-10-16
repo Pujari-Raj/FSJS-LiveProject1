@@ -20,6 +20,11 @@ Click on the below given link to get the preview of the page
 </a>
 
 Learnings from this projects:-
-* How to use image as the background for the page and position it as per the need in css.
+* How to use image as the background for the page and position it as per the need in css. 
+
+
+&nbsp;&nbsp;
+![LCO](./Screenshots/Project-1-ss.png "Title is optional")
+
 
 ## Time Taken to complete this project was 1 day.
