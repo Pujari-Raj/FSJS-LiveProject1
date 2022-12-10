@@ -1,6 +1,6 @@
-# Live Class Project2
+# Live Class Project1
 
-Project- Restaurant Landing Page
+Project- Trending Landing Page
 
 This assignment was given as task in ineuron's FSJSBootCamp Course.
 
@@ -15,8 +15,8 @@ Technologies/ Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="https://pujari-project1.netlify.app/">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<a href="https://fsjs-project1-pujari.vercel.app/">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 Learnings from this projects:-
@@ -24,7 +24,7 @@ Learnings from this projects:-
 
 
 &nbsp;&nbsp;
-![LCO](./Screenshots/Project-1-ss.png "Title is optional")
+![Project-Image](./Screenshots/Project-1-ss.png "Title is optional")
 
 
 ## Time Taken to complete this project was 1 day.
