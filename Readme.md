@@ -1,4 +1,4 @@
-# Live Class Project1
+# Live Class Project-1
 
 Project- Trending Landing Page
 
